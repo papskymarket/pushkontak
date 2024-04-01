@@ -1,13 +1,13 @@
 {
-  "name": "pushkontak-bot",
+  "name": "pushkontak-6285380000995",
   "version": "1.0.0",
-  "description": "Bot WhatsApp untuk push kontak otomatis",
+  "description": "Bot WhatsApp untuk push kontak otomatis, jangan lupa sv 6285380000995",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Zeeoneofc",
+  "author": "6285380000995",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "npm:@whiskeysockets/baileys@^6.5.0",
